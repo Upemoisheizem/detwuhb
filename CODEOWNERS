@@ -1,2 +1,2 @@
 CODEOWNERS @z3nht
-*.jinkinsfile @z3nht
+*.jenkinsfile @z3nht
